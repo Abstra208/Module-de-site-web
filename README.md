@@ -1,2 +1,3 @@
-# Module-de-site-web
-Ceci est un model pour vous créer un site web gratuitement
+# Model de site web
+Ceci est gratuit et est en dévelopement
+merci de votre patience
