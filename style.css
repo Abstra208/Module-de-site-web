@@ -16,6 +16,7 @@ header nav{
     justify-content: center;
 }
 header nav li{
+    display: grid;
     list-style: none;
     gap: 10px;
     color: red;
