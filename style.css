@@ -5,12 +5,16 @@
     margin: 0;
 }
 
-header nav{
+header{
     height: 10%;
     width: 100%;
+    background-color: gray;
 }
-header nav li{
+header nav{
     display: flex;
     flex-direction: row;
     justify-content: center;
+}
+header nav li{
+    color: red;
 }
